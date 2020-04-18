@@ -1,0 +1,166 @@
+[
+	{
+	  "id": 1,
+	  "team_name": "Forrest Gump (1994)",
+	  "since": "1886",
+	  "coach": "ArsÃ¨ne Wenger",
+	  "team_nickname": "The Gunners",
+	  "stadium": "EMIRATES STADIUM",
+    "img_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/870px-Arsenal_FC.svg.png",
+    "img_stadium": "https://image.tmdb.org/t/p/original//4fT3pmeO7NnyT1TBkSElIDhVThU.jpg",
+	  "latitude": "51.554888",
+	  "longitude": "-0.108438",
+	  "website": "http://www.arsenal.com/",
+	  "tickets_url": "http://www.arsenal.com/tickets",
+	  "address": "Hornsey Road, London N7 7AJ, United Kingdom",
+	  "phone_number": "+44 20 7619 5003",
+	  "description": "Arsenal Football Club exists to make our fans proud wherever they are in the world and however they choose to follow us.",
+	  "video_url": "https://www.youtube.com/watch?v=YsWMJabIaQY",
+	  "schedule_games": [
+	    {
+	      "date": "2015-04-11 17:00:00 +0100",
+	      "stadium": "Turf Moor"
+	    },
+	    {
+	      "date": "2015-04-26 18:00:00 +0100",
+	      "stadium": "Emirates Stadium"
+	    },
+	    {
+	      "date": "2015-05-04 17:00:00 +0100",
+	      "stadium": "The KC Stadium"
+	    },
+	    {
+	      "date": "2015-05-11 17:00:00 +0100",
+	      "stadium": "Emirates Stadium"
+	    }
+	  ]
+	},
+	{
+	  "id": 2,
+	  "team_name": "La Terminal (2004)",
+	  "since": "1874",
+	  "coach": "Tim Sherwood",
+	  "team_nickname": "The Villans",
+	  "stadium": "VILLA PARK",
+	  "img_logo": "https://www.error.com/error",
+	  "img_stadium": "https://i2.wp.com/www.cinemanet.info/wp-content/uploads/2016/09/tom-hanks-terminal-2004.jpg?fit=1920%2C1080&ssl=1",
+	  "latitude": "52.509896",
+	  "longitude": "-1.885852",
+	  "website": "http://www.avfc.co.uk/",
+	  "tickets_url": "https://www.eticketing.co.uk/avfc/default.aspx",
+	  "address": "Trinity Rd, Birmingham B6 6HE, United Kingdom",
+	  "phone_number": "+44 800 612 0970",
+	  "description": "Aston Villa are among the oldest and the most successful football clubs in the history of English football.",
+	  "video_url": "https://www.youtube.com/watch?v=FtlMTrtOmzE",
+	  "schedule_games": [
+	    {
+	      "date": "2015-04-11 17:00:00 +0100",
+	      "stadium": "White Hart Lane"
+	    },
+	    {
+	      "date": "2015-04-25 18:00:00 +0100",
+	      "stadium": "Etihad Stadium"
+	    },
+	    {
+	      "date": "2015-05-02 17:00:00 +0100",
+	      "stadium": "Villa Park"
+	    }
+	  ]
+	},
+	{
+	  "id": 3,
+	  "team_name": "Sully (2016)",
+	  "since": "1882",
+	  "coach": "Sean Dyche",
+	  "team_nickname": "The Clarets",
+	  "stadium": "Turf Moor",
+	  "img_logo": "https://lh4.googleusercontent.com/-nteZr1o0mYE/AAAAAAAAAAI/AAAAAAAAAD4/-fxGINvK_jY/s0-c-k-no-ns/photo.jpg",
+	  "img_stadium": "data:image/jpeg;base64,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",
+	  "latitude": "53.789167",
+	  "longitude": "-2.230278",
+	  "website": "http://www.burnleyfootballclub.com/",
+	  "tickets_url": "http://www.burnleyfootballclub.com/tickets/",
+	  "address": "Harry Potts Way, Burnley, Lancashire, England",
+	  "phone_number": "+44 0871 221 1914",
+	  "description": "Burnley Football Club are a professional football club based in Burnley, Lancashire, who play in the Premier League, the highest level of English football. Nicknamed The Clarets, due to the dominant colour of their home shirts, they were one of the founder members of the Football League in 1888.",
+	  "video_url": "https://www.youtube.com/watch?v=gprG5_Gcic4",
+	  "schedule_games": [
+	    {
+	      "date": "2015-04-11 17:00:00 +0100",
+	      "stadium": "Turf Moor"
+	    },
+	    {
+	      "date": "2015-04-18 18:00:00 +0100",
+	      "stadium": "Goodison Park"
+	    },
+	    {
+	      "date": "2015-04-25 17:00:00 +0100",
+	      "stadium": "Turf Moor"
+	    }
+	  ]
+	},
+	{
+	  "id": 4,
+	  "team_name": "Naufrago (2000)",
+	  "since": "1905",
+	  "coach": "JosÃ© Mourinho",
+	  "team_nickname": "The Blues",
+	  "stadium": "Stamford Bridge",
+	  "img_logo": "https://lh3.googleusercontent.com/-_-grPaix4ZQ/AAAAAAAAAAI/AAAAAAAAr30/P4xhpy_3OwY/s0-c-k-no-ns/photo.jpg",
+	  "img_stadium": "https://sites.google.com/site/economia1ba/_/rsrc/1445351805325/home/pelicula-naufrago-y-terminos-economicos/8432974724620.jpg?height=281&width=400",
+	  "latitude": "51.481667",
+	  "longitude": "-0.191111",
+	  "website": "http://www.chelseafc.com/",
+	  "tickets_url": "http://www.chelseafc.com/tickets-membership/tickets-home.html#match=none",
+	  "address": "Fulham, London, SW6 1HS, England",
+	  "phone_number": "00 44 20 7835 6000",
+	  "description": "Chelsea Football Club are a professional football club based in Fulham, London, who play in the Premier League, the highest level of English football. Founded in 1905, the club have spent most of their history in the top tier of English football.",
+	  "video_url": "https://www.youtube.com/watch?v=06_xB2Sc7E8",
+	  "schedule_games": [
+	    {
+	      "date": "2015-04-12 17:00:00 +0100",
+	      "stadium": "Loftus Road Stadium"
+	    },
+	    {
+	      "date": "2015-04-18 18:00:00 +0100",
+	      "stadium": "Stamford Bridge"
+	    },
+	    {
+	      "date": "2015-04-26 17:00:00 +0100",
+	      "stadium": "Emirates Stadium"
+	    }
+	  ]
+	},
+	{
+	  "id": 5,
+	  "team_name": "Los Vengadores (2012)",
+	  "since": "1912",
+	  "coach": "Garry Monk",
+	  "team_nickname": "The Swans",
+	  "stadium": "Liberty Stadium",
+    "img_logo": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Swansea-City-Logo.png",
+    "img_stadium": "https://i.pinimg.com/originals/aa/eb/e4/aaebe4e4ab93d32a7c1104f452637e17.jpg",
+	  "latitude": "51.642697",
+	  "longitude": "-3.935307",
+	  "website": "http://www.liberty-stadium.com/",
+	  "tickets_url": "https://www.eticketing.co.uk/swanstickets/default.aspx",
+	  "address": "Landore, Swansea SA1 2FA, United Kingdom",
+	  "phone_number": "+44 871 222 3224",
+	  "description": "Swansea City Association Football Club is a Welsh professional association football club based in the city of Swansea, South Wales that plays in the Premier League",
+	  "video_url": "https://www.youtube.com/watch?v=tEUn22vEi5U",
+	  "schedule_games": [
+	    {
+	      "date": "2015-04-11 17:00:00 +0100",
+	      "stadium": "Liberty Stadium"
+	    },
+	    {
+	      "date": "2015-04-18 18:00:00 +0100",
+	      "stadium": "King Power Stadium"
+	    },
+	    {
+	      "date": "2015-04-25 17:00:00 +0100",
+	      "stadium": "St. James' Park"
+	    }
+	  ]
+	}
+]
